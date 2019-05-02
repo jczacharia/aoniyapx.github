@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BananaComponent implements OnInit {
 
-    title = 'My NgRx Banana App';
+    title = 'My NgRx Banana Apps';
 
     constructor() {
 
